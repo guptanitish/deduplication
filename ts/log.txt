@@ -261,4 +261,12 @@ File found
 Normal chunks: 749 Forced chunks: 26 Total chunks: 775
 Duplicate count 7
  system_dedup_ratio 1.001059
+ finishedSat Dec  6 03:06:39 EST 2014
+
+ FS is initialized
+
+No of blocks duplicated: 1
+No of blocks written: 2
+
+ system_dedup_ratio 2.000000
  finished

@@ -6,7 +6,7 @@ echo "Note - The output for is saved to log.txt."
 while true; do
 echo
 echo
-echo "What test you to run ?"
+echo "What test do you want to run ?"
 echo "1.  Write a new file"
 echo "2.  Read a file"
 echo "3.  Write a file using Content Aware Chunking"
